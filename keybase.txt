@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jamesits
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://swineson.me
+  * I am jamesits (https://keybase.io/jamesits) on keybase.
+  * I have a public key with fingerprint F37F 9BC8 BBE8 C9AB 7EC2  D7E3 5CE8 0C34 0ACC 0CC0
+
+To do so, I am signing this object:
+
+{   
+    "body": {
+        "key": {
+            "eldest_kid": "01017302463af2775ca2d1129904f52af7eaac984b3be82c1043333429b9b27258430a",
+            "fingerprint": "f37f9bc8bbe8c9ab7ec2d7e35ce80c340acc0cc0",
+            "host": "keybase.io",
+            "key_id": "5ce80c340acc0cc0",
+            "kid": "01017302463af2775ca2d1129904f52af7eaac984b3be82c1043333429b9b27258430a",
+            "uid": "296d24977ff750086c9c6dbfca3d8419",
+            "username": "jamesits"
+        },
+        "service": {
+            "hostname": "swineson.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455329497,
+    "expire_in": 157680000,
+    "prev": "9310de65c52257fa5ca86815e0d2a0c7ac4a4c1b10dea8ecd7b0393c94f9a733",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSBRRGN6tdHUrFIt9KYOm7GLrcua2Z0a7YG2RSdBFjCjbzpw5447a
+zLoz6ppt1ls9RBZ0g5JoCSIqjSCNaksNgi4YFGEPQanYzaykK1F0Ruytxw4Hfv7/
+fN93vv/nvzN1osvrzrv/KmCIi0Pu+13H6lzlqZZnTYxiqo1MYRNTTcYCqVGJZYer
+dZUpZAALWMgDTgjySOMgFDHiVJblZBkImsghDRKEsCwJCq8QicMsEHh6BE5WZIWD
+nCgJPECMn9F0o5LEojHdsKmsxkNNVrCkUBKWkQIJ5lRIeBETCWBeAAhjQC8lRkzL
+YVBzCrJIQDdpjSbhMXv/wP9n33VjcpwcVDlBhlDToAiAFMQyDqqKhhGvSgIrO0CL
+xAy0g1B0FQ2WbltMws/Qar2OiTNYp5NxhNWgG8QyjQDN/Ew0ZtomNmvoQ8S2o1ah
+Q7Qbow6ygSjhcY2wohsqHSNl1JOYpZsGU8hSJLZ1R5QVRJHnZOrSz5B4VI+RsO4g
+RBiUAD3OP6SeSso8C1QSFLHIcSLUEJ2NFJRYkQCVQwBDhAUkYFZxUEgiWIUK4GUe
+y4ImI8jzjNNVrWFSbYn6RJVOQ3qlgey6GGES3be3TnK5va70tAnOfrm8mdl/t+5a
+nufXrLypS27+TB4dKhX1gO9A0dxQfhyfmv41Y3BwoO/H5pL9k91tGSPJ2Rm5/Pur
+l7JWrN15oOOK8Px0QefngqWPYPvB7ye+tadWD3gTLt9dX881UrLodwStWv3ld9qd
+odbmnNeptIqs3oLky6xgd/GG5jMPEvtOfqktXfkUpTq27L71s2V4NLD865yVzfMe
+jsaz1VMXyoaWlPfmrz/riRTPEPsrFpQc9jyruHn8eVXOcP/1jWUfPFZiyr1N+4r7
+9nYeWZcOlmb43jwuO7eh7ZPZtfDtxT0zP15OXybNb+p5sub8riJx26pZ8azMkmXT
+qo93hrwjL37dyG1x17xLhi66DnVtb20t+wNnwzuu
+=+LmK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamesits
+
+==================================================================
