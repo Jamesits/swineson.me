@@ -3,7 +3,7 @@ body {
     overflow-x: hidden;
 }
 body {
-    position: relative
+    position: relative;
 }
 .site-wrapper {
     height: 100%;
@@ -16,6 +16,7 @@ body {
     max-height: auto;
     margin-bottom: 0em;
     background-color: initial;
+    background-image: url(../images/background.png);
 }
 .home-template .main-nav {
     background: none;
