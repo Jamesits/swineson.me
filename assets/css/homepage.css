@@ -16,7 +16,7 @@ body {
     max-height: auto;
     margin-bottom: 0em;
     background-color: initial;
-    background-image: url(../images/background.png);
+    background-image: url(../../assets-nonfree/images/background.png);
 }
 .home-template .main-nav {
     background: none;
