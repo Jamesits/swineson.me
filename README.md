@@ -10,4 +10,4 @@ This static theme is originated from [TryGhost/Casper](https://github.com/TryGho
 
 Copyright (c) 2015-2017 James Swineson.
 
-All files in this repository, except files in the `assets-nonfree` folder and all its subfolders, is released under the MIT license. Files in the `assets-nonfree` folder and all its subfolders are licenced per file, please refer to [assets-nonfree/LICENSE.md](blob/master/assets-nonfree/LICENSE.md).
+All files in this repository, except files in the `assets-nonfree` folder and all its subfolders, is released under the MIT license. Files in the `assets-nonfree` folder and all its subfolders are licenced per file, please refer to [assets-nonfree/LICENSE.md](assets-nonfree/LICENSE.md).
