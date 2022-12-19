@@ -1,1 +1,4 @@
-/.well-known/webfinger resource=acct:james@swineson.me /.well-known/webfinger/mastodon.json 200
+# https://www.hanselman.com/blog/use-your-own-user-domain-for-mastodon-discoverability-with-the-webfinger-protocol-without-hosting-a-server
+# https://github.com/felx/mastodon-documentation/blob/master/Running-Mastodon/Serving_a_different_domain.md
+/.well-known/host-meta https://social.caa-ins.org/.well-known/host-meta 301
+/.well-known/webfinger resource=acct:@james@swineson.me /.well-known/webfinger/mastodon.json 200
