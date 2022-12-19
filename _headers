@@ -2,4 +2,4 @@
     Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 
 /.well-known/webfinger
-    Content-Type: application/jrd+json
+    Content-Type: application/jrd+json; charset=utf-8
